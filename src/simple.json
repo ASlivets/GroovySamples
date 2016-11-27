@@ -1,0 +1,19 @@
+{
+  "addresses": [
+    {
+      "city" : "Hamburg",
+      "postalCode" : "22769",
+      "country" : "Germany"
+    },
+    {
+      "city" : "Madrid",
+      "postalCode" : "28001",
+      "country" : "Germany"
+    },
+    {
+      "city" : "Kiev",
+      "postalCode" : "03115",
+      "country" : "Ukraine"
+    }
+  ]
+}
