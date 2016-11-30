@@ -10,8 +10,3 @@ if (nodeProvider
         ?.getName() != null) {
     nodeProvider.getNodes().get(0).name = 'java'
 }
-
-
-
-
-a ?: ""
